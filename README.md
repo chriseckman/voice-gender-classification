@@ -54,7 +54,15 @@ print(results)  # ["female", "male", "female"]
 ## Citation
 If you use this model in your research, please cite:
 ```bibtex
-TBD
+@misc{koushnir2025vanpyvoiceanalysisframework,
+      title={VANPY: Voice Analysis Framework}, 
+      author={Gregory Koushnir and Michael Fire and Galit Fuhrmann Alpert and Dima Kagan},
+      year={2025},
+      eprint={2502.17579},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2502.17579}, 
+}
 ```
 
 ## License
