@@ -23,7 +23,10 @@ You can install the package directly from GitHub:
 ```bash
 pip install git+https://github.com/griko/voice-gender-classification.git
 ```
-
+Alternatively install dependencies with:
+```bash
+pip install -r requirements.txt
+```
 ## Usage
 
 ```python

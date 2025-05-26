@@ -1,11 +1,11 @@
-numpy==1.23.5
-torch==1.13.1
-torchaudio==0.13.1
-speechbrain @ git+https://github.com/speechbrain/speechbrain.git@v0.5.15
+speechbrain==0.5.15
 scikit-learn==1.2.2
 pandas==1.5.3
 soundfile==0.12.1
 transformers==4.31.0
 huggingface_hub>=0.15.1
 joblib>=1.2.0
-pytest==7.2.1
+numpy>=1.22.0,<2
+torch==1.13.1
+torchaudio==0.13.1
+numpy>=1.22.0,<2
