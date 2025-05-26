@@ -1,6 +1,6 @@
-scikit-learn
-pandas
-soundfile
-speechbrain
-torch
-torchaudio
+scikit-learn==1.2.2
+pandas==1.5.3
+soundfile==0.12.1
+speechbrain==0.5.15
+torch==1.13.1
+torchaudio==0.13.1
